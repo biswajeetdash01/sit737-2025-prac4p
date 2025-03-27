@@ -1,0 +1,7 @@
+{"level":"info","message":"Addition requested: 5 + 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: 15 + 3 = 18","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction requested: 100 - 30 = 70","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication requested: 66 * 77 = 5082","service":"calculator-microservice"}
+{"level":"info","message":"Division requested: 100 / 20 = 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid parameters provided","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero attempted","service":"calculator-microservice"}
